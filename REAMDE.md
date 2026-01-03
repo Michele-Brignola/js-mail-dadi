@@ -1,6 +1,6 @@
 # Esercizio - js-mail-dadi
 
-### Consegna 1: Mail
+### Mail:
 
 Crea una lista di email di invitati ad una festa.
 Chiedi all’utente la sua email,
@@ -8,10 +8,12 @@ controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for.
 Non è consentito usare nessun metodo proprio degli array (come includes, per esempio).
 Si può fare? Certo che si basta ragionare un po’.
-Nota:
+
+#### Nota:
+
 Non è necessario provvedere alla validazione delle email
 
-### Consegna 2: Gioco dei dadi
+### Gioco dei dadi
 
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
@@ -22,10 +24,15 @@ Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 #### Consigli del giorno:
 
-scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
-javascript non fa nulla da solo, dobbiamo dirgli noi cosa vogliamo fare
-si ma noi cosa vogliamo fare?
-torniamo a scrivere in italiano
-proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+- scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
+- javascript non fa nulla da solo, dobbiamo dirgli noi cosa vogliamo fare
+- si ma noi cosa vogliamo fare?
+- torniamo a scrivere in italiano
+- proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 Buon lavoro e buon divertimento! ❤️
+
+#### bonus:
+
+Far inserire il numero all'utente al posto di generarlo random anche per lui.
+Far durare il gioco finchè l'utente non scrive "STOP" al posto di un numero.
